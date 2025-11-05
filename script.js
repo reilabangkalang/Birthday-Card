@@ -227,7 +227,7 @@ function startTypewriter() {
   const messageContent = document.querySelector(".message-content");
   if (!messageContent) return;
 
-  const fullMessage = `Hi ,
+  const fullMessage = `Hi Sayang,
 
 Happy Birthday!
 
