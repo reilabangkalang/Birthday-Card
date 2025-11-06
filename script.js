@@ -229,11 +229,24 @@ function startTypewriter() {
 
   const fullMessage = `Hi Sayang,
 
-Happy Birthday!
+Selamat ulang tahun ya. Sory ye kalau cuman bisa kasi ginian aja. Tapi yang penting doaku buat kamu selalu tulus dan penuh cinta.
 
-Hari ini aku pengen kamu ngerasin semual hal baik yang terjadi di diri kamu. Hal baik itu sudah terjadi sebelum hari ini.
-Aku bangga banget bisa kenal kamu. Kamu tu yah, 
-I love you so much! 💕`;
+Semoga Hana selalu menjadi versi terbaik dirinya sendiri, terus maju, dan ga pernah kehilangan semangatnya. Semoga kamu selalu sayang sama bapak ibu, sahabat-sahabat kamu, dan tentu saja pacar tengil mu ini wkwkwk..
+
+Aku juga mau bilang terima kasih ya, sudah mau bertahan di derasnya hidup ini. Makasih sdh berjuang sejauh ini, dengan semua capek, tawa, dan air mata yang kamu lewati. Aku bangga banget kok punya kamu, yang kuat, lucu, dan bisa segala hal (kecuali makan tomat 😂)
+
+Semangat juga buat nyelesain tesis ya! Semua orang yang dekat banget sama kamu pasti tau, kalau kamu bisa kok. Nah siapa tau setelah tesis terbitlah profesi, siapa tahu Tuhan berikan jalan ☺️😂
+
+Selamat ulang tahun ya Hana Tiwul 🤍 Semoga orang-orang mendoakan mu seperti bintang jatuh, semoga kesehatan mu seperti janji janji brand salad di mall dan rejeki mu deras seperti air terjun niagara. 
+
+Selamat menikmati berkat Tuhan yang selalu melimpah di hidupmu, karena kamu pantas untuk semual hal indah yang bakal datang	. 
+
+Ke warung beli susu murni,
+Pulangnya bawa martabak manis.
+Ulang tahunmu jadi hari paling seru ini,
+Tapi jangan lupa traktir aku abis 😆
+
+Love youu always ❤️`;
 
   // Clear content and start fresh
   messageContent.innerHTML = "";
@@ -268,7 +281,17 @@ function skipTypewriter() {
     clearInterval(typewriterInterval);
     const messageContent = document.querySelector(".message-content");
     if (messageContent) {
-      const fullMessage = `Hi Cel,<br><br>Happy Birthday!<br><br>Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.<br><br>Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).<br><br>I love you so much! 💕`;
+      const fullMessage = `Hi Sayang, <br><br> Selamat ulang tahun ya. Sory ye kalau cuman bisa kasi ginian aja. Tapi yang penting doaku buat kamu selalu tulus dan penuh cinta. <br><br>
+      Semoga Hana selalu menjadi versi terbaik dirinya sendiri, terus maju, dan ga pernah kehilangan semangatnya. Semoga kamu selalu sayang sama bapak ibu, sahabat-sahabat kamu, dan tentu saja pacar tengil mu ini wkwkwk.. <br><br>
+      Aku juga mau bilang terima kasih ya, sudah mau bertahan di derasnya hidup ini. Makasih sdh berjuang sejauh ini, dengan semua capek, tawa, dan air mata yang kamu lewati. Aku bangga banget kok punya kamu, yang kuat, lucu, dan bisa segala hal (kecuali makan tomat 😂) <br><br>
+      Semangat juga buat nyelesain tesis ya! Semua orang yang dekat banget sama kamu pasti tau, kalau kamu bisa kok. Nah siapa tau setelah tesis terbitlah profesi, siapa tahu Tuhan berikan jalan ☺️😂 <br><br>
+      Selamat ulang tahun ya Hana Tiwul 🤍 Semoga orang-orang mendoakan mu seperti bintang jatuh, semoga kesehatan mu seperti janji janji brand salad di mall dan rejeki mu deras seperti air terjun niagara. <br><br>
+      Selamat menikmati berkat Tuhan yang selalu melimpah di hidupmu, karena kamu pantas untuk semual hal indah yang bakal datang	. <br><br>
+      Ke warung beli susu murni,<br>
+      Pulangnya bawa martabak manis.<br>
+      Ulang tahunmu jadi hari paling seru ini,<br>
+      Tapi jangan lupa traktir aku abis 😆<br><br>
+      Love youu always ❤️`;
       messageContent.innerHTML = fullMessage;
       isTyping = false;
       messageContent.scrollTop = messageContent.scrollHeight;
@@ -631,7 +654,7 @@ function loadSpotifyPlaylist(playlistNumber) {
       embedUrl:
         "https://open.spotify.com/embed/playlist/2QGcjerzhEMK3RbeB1viJ5?si=e283b70ab9a247da",
       name: "Birthday Special Mix",
-      description: "Lagu-lagu spesial untuk hari istimewa kamu ✨",
+      description: "Lagu-lagu spesial untuk ultah ✨",
     },
     2: {
       // Ganti dengan playlist kedua kamu
@@ -644,8 +667,8 @@ function loadSpotifyPlaylist(playlistNumber) {
       // Ganti dengan playlist ketiga kamu
       embedUrl:
         "https://open.spotify.com/embed/playlist/1E3hdBftiWcc5fd5t611Hj?si=22717661d96a4873",
-      name: "Playlist Andalan Kamu Nih",
-      description: "Lagu-lagu yang mengingatkan untuk Hidup 🌟",
+      name: "Playlist Kamu Nih",
+      description: "Lagu-lagu Hidup 🌟",
     },
   };
   const selectedPlaylist = playlists[playlistNumber];
