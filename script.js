@@ -239,7 +239,7 @@ Semangat juga buat nyelesain tesis ya! Semua orang yang dekat banget sama kamu p
 
 Selamat ulang tahun ya Hana Tiwul 🤍 Semoga orang-orang mendoakan mu seperti bintang jatuh, semoga kesehatan mu seperti janji janji brand salad di mall dan rejeki mu deras seperti air terjun niagara. 
 
-Selamat menikmati berkat Tuhan yang selalu melimpah di hidupmu, karena kamu pantas untuk semual hal indah yang bakal datang	. 
+Selamat menikmati berkat Tuhan yang selalu melimpah di hidupmu, karena kamu pantas untuk semual hal indah yang bakal datang. 
 
 Ke warung beli susu murni,
 Pulangnya bawa martabak manis.
