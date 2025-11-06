@@ -286,7 +286,7 @@ function skipTypewriter() {
       Aku juga mau bilang terima kasih ya, sudah mau bertahan di derasnya hidup ini. Makasih sdh berjuang sejauh ini, dengan semua capek, tawa, dan air mata yang kamu lewati. Aku bangga banget kok punya kamu, yang kuat, lucu, dan bisa segala hal (kecuali makan tomat 😂) <br><br>
       Semangat juga buat nyelesain tesis ya! Semua orang yang dekat banget sama kamu pasti tau, kalau kamu bisa kok. Nah siapa tau setelah tesis terbitlah profesi, siapa tahu Tuhan berikan jalan ☺️😂 <br><br>
       Selamat ulang tahun ya Hana Tiwul 🤍 Semoga orang-orang mendoakan mu seperti bintang jatuh, semoga kesehatan mu seperti janji janji brand salad di mall dan rejeki mu deras seperti air terjun niagara. <br><br>
-      Selamat menikmati berkat Tuhan yang selalu melimpah di hidupmu, karena kamu pantas untuk semual hal indah yang bakal datang	. <br><br>
+      Selamat menikmati berkat Tuhan yang selalu melimpah di hidupmu, karena kamu pantas untuk semual hal indah yang bakal datang. <br><br>
       Ke warung beli susu murni,<br>
       Pulangnya bawa martabak manis.<br>
       Ulang tahunmu jadi hari paling seru ini,<br>
